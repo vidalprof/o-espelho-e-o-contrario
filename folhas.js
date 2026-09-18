@@ -202,7 +202,7 @@ function f0(d){
      e cada uma "vira" saindo do vidro (viraLetra). A cena mostra um par de
      contrários recortado das folhas de papel — o mesmo par da folha 1. */
   var c = el("div", "capa"), nome = "O Espelho e o Contrário", k, letras = "", meio = Math.floor(nome.length / 2);
-  /* cada palavra vai num <span class="pal"> (nowrap): a quebra de linha acontece
+  /* cada palavra vai num <span class="tpal"> (nowrap): a quebra de linha acontece
      ENTRE palavras, nunca no meio de "Contrário" — a foto do celular mostrou o
      "o" sozinho na linha de baixo */
   nome.split(" ").forEach(function(pal, w){
@@ -211,7 +211,7 @@ function f0(d){
       var ch = pal.charAt(k), pos = ini + k;
       s += '<span class="lt' + (pos < meio ? ' q' : '') + '" style="animation-delay:' + (0.05 * pos).toFixed(2) + 's">' + ch + '</span>';
     }
-    letras += (w ? '<span class="esp"></span>' : '') + '<span class="pal">' + s + '</span>';
+    letras += (w ? '<span class="esp"></span>' : '') + '<span class="tpal">' + s + '</span>';
   });
   c.innerHTML =
     '<div class="ceu"><i class="raio r1"></i><i class="raio r2"></i></div>' +
