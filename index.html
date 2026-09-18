@@ -40,15 +40,18 @@ html,body{margin:0;min-height:100%}
 :root{
   /* os tokens de cor da folha viva — sem eles o portão `_qa/cor_fixa.py` reprova
      cor de texto cravada, que num tema diferente vira letra invisível */
-  --texto:#26201c;
-  --texto2:#3a2f27;
-  --texto3:#4a3d33;
-  /* a cor deste caderno é a TELHA: ele é sobre casas */
-  --cor:#b0562a;
-  --cor2:#8d4120;
-  --corclara:#fdf1e9;
+  --texto:#1d2530;
+  --texto2:#2c3745;
+  --texto3:#3a4658;
+  /* a cor deste caderno é o AZUL DO VIDRO DO ESPELHO; o lado "contrário" é quente
+     (--avesso). Identidade própria: portão 0b11 (`_qa/identidade.py`) */
+  --cor:#1f7a8c;
+  --cor2:#145b69;
+  --corclara:#e4f3f5;
+  --avesso:#d9622b;
+  --avesso2:#a8451a;
 }
-body{font-family:"Segoe UI",Arial,sans-serif;background:#f4efe9;color:var(--texto);padding-bottom:160px}
+body{font-family:"Segoe UI",Arial,sans-serif;background:#eef5f6;color:var(--texto);padding-bottom:160px}
 #topo{position:-webkit-sticky;position:sticky;top:0;z-index:20;background:#fff;border-bottom:3px solid var(--cor);
   box-shadow:0 2px 14px rgba(70,40,20,.13);padding:8px 10px;display:flex;align-items:center;gap:10px;max-width:880px;margin:0 auto}
 #topo .tit{font-weight:800;font-size:15px;flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
@@ -189,12 +192,15 @@ button{font-family:inherit;cursor:pointer}
 .ligar .col{display:flex;flex-direction:column;gap:14px;flex:1 1 0;min-width:0}
 .linhas{position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:none}
 .ponta{border:3px solid #e6dbd1;border-radius:16px;background:#fff;height:92px;display:flex;align-items:center;
-  justify-content:center;font-weight:900;font-size:clamp(13px,3.4vw,17px);letter-spacing:.4px;padding:6px;
+  /* flex-wrap: com figura + palavra comprida (ENSOLARADO a 320 px) a figura era
+     empurrada para fora da caixa pela esquerda; embrulhando, ela sobe e a palavra
+     fica embaixo (medido pelo leiaute_mao, _sinon2 folha 3) */
+  flex-wrap:wrap;justify-content:center;font-weight:900;font-size:clamp(13px,3.4vw,17px);letter-spacing:.4px;padding:6px;
   text-align:center;line-height:1.15;color:var(--texto2);
   -ms-touch-action:none;touch-action:none;-webkit-transition:border-color .15s,box-shadow .15s;
   transition:border-color .15s,box-shadow .15s}
 .ponta img{width:auto;height:70px;max-width:100%;object-fit:contain}
-@media (max-width:420px){ .ponta{height:78px} .ponta img{height:58px} }
+@media (max-width:420px){ .ponta{height:auto;min-height:78px} .ponta img{height:58px} }
 .ponta.marcada{border-color:var(--cor);box-shadow:0 0 0 4px rgba(176,86,42,.22)}
 .ponta.feita{border-color:#15a34a;background:#e7f8ee}
 .ponta.mostra{border-color:#f0b64a;box-shadow:0 0 0 4px rgba(240,182,74,.4)}
@@ -351,61 +357,62 @@ button{font-family:inherit;cursor:pointer}
 #nomeIn:focus{outline:none;border-color:#1179bf;box-shadow:0 0 0 4px rgba(17,121,191,.25)}
 
 /* ================= A CAPA =================
-   O tema sai do nome: uma RUA onde as casas do mundo inteiro são vizinhas.
-   O céu com o sol, a fileira de casas subindo uma depois da outra e a calçada
-   embaixo. Só CSS e PNG: nada de SVG, nada de emoji. */
+   O tema sai do nome: um ESPELHO. A tela se parte em dois lados — o quente e o
+   frio — com o vidro no meio; de um lado uma figura, do outro o seu contrário.
+   As letras do título "viram" como se saíssem do espelho. Só CSS e PNG das
+   folhas colhidas: nada de SVG, nada de emoji.
+   ⚠️ Nome de @keyframes é GLOBAL: os daqui têm nome próprio (viraLetra,
+   balancaEsq, balancaDir, brilhaVidro) para não colidir com o confete nem com a
+   capa de outro caderno. Identidade medida pelo portão 0b11. */
 .capa{position:relative;text-align:center;padding:18px 16px 24px;overflow:hidden;
-  background:-webkit-linear-gradient(top,#cbe7f7 0%,#fdf3ea 62%,#fff 100%);
-  background:linear-gradient(180deg,#cbe7f7 0%,#fdf3ea 62%,#fff 100%)}
+  background:-webkit-linear-gradient(left,#fbe4d6 0%,#fff7f2 44%,#f3fbfc 56%,#d4ecf0 100%);
+  background:linear-gradient(90deg,#fbe4d6 0%,#fff7f2 44%,#f3fbfc 56%,#d4ecf0 100%)}
 .capa .ceu{position:absolute;left:0;right:0;top:0;bottom:0;pointer-events:none;overflow:hidden}
-.capa .nv{position:absolute;display:block;border-radius:50%;
-  background:-webkit-radial-gradient(circle,rgba(255,255,255,.85),rgba(255,255,255,0) 70%);
-  background:radial-gradient(circle,rgba(255,255,255,.85),rgba(255,255,255,0) 70%)}
-.capa .n1{width:220px;height:130px;left:-40px;top:14px}
-.capa .n2{width:280px;height:150px;right:-70px;top:44px}
-.capa .n3{width:170px;height:110px;left:46%;top:6px}
-.capa .sol{position:absolute;right:22px;top:16px;width:56px;height:56px;border-radius:50%;
-  background:-webkit-radial-gradient(circle at 40% 38%,#fff2b8,#f5b301);
-  background:radial-gradient(circle at 40% 38%,#fff2b8,#f5b301);
-  box-shadow:0 0 26px rgba(245,179,1,.55)}
-/* ⚠️ O SOL TAPAVA O SUBTÍTULO (achado na foto). O `.ceu` vem antes no HTML,
-   mas os filhos dele são absolutos — e elemento posicionado pinta POR CIMA
-   de irmão não posicionado, mesmo vindo antes. O conserto é levantar o
-   conteúdo, não abaixar o céu. */
-.capa .titu,.capa .sub,.capa .esteira,.capa .chamada{position:relative;z-index:1}
-.capa .chapeu{position:relative;z-index:1;width:66px;height:66px;margin:16px auto 2px;border-radius:16px;
-  background:-webkit-linear-gradient(top left,#d2703c,#8d4120);
-  background:linear-gradient(135deg,#d2703c,#8d4120);color:#fff;font-weight:900;font-size:34px;
-  line-height:66px;box-shadow:0 8px 18px rgba(141,65,32,.36)}
-.capa .chapeu:before{content:"";position:absolute;left:-9px;right:-9px;top:-15px;height:0;
-  border-left:42px solid transparent;border-right:42px solid transparent;border-bottom:18px solid #a33d1e}
-.capa h1.titu{margin:12px 0 4px;line-height:1;display:flex;flex-wrap:wrap;justify-content:center;gap:2px}
-.capa .titu .lt{display:inline-block;font-size:clamp(24px,6.4vw,42px);font-weight:900;letter-spacing:0;
-  color:#8d4120;text-shadow:0 3px 0 #f6dcc8,0 5px 10px rgba(120,60,25,.2);
-  -webkit-animation:caiCasa .5s both;animation:caiCasa .5s both}
+.capa .raio{position:absolute;display:block;top:-30%;bottom:-30%;width:18%;
+  background:-webkit-linear-gradient(top,rgba(255,255,255,0),rgba(255,255,255,.75),rgba(255,255,255,0));
+  background:linear-gradient(180deg,rgba(255,255,255,0),rgba(255,255,255,.75),rgba(255,255,255,0));
+  -webkit-transform:rotate(18deg);transform:rotate(18deg);opacity:.7}
+.capa .r1{left:12%}.capa .r2{right:14%}
+.capa .titu,.capa .sub,.capa .chamada,.capa .cena{position:relative;z-index:1}
+.capa h1.titu{margin:12px 0 4px;line-height:1;display:flex;flex-wrap:wrap;justify-content:center;gap:2px;
+  -webkit-perspective:600px;perspective:600px}
+.capa .titu .lt{display:inline-block;font-size:clamp(22px,5.8vw,42px);font-weight:900;letter-spacing:0;
+  color:var(--cor2);text-shadow:0 3px 0 #cfe6ea,0 5px 10px rgba(20,91,105,.22);
+  -webkit-animation:viraLetra .7s both;animation:viraLetra .7s both}
+.capa .titu .lt.q{color:var(--avesso2);text-shadow:0 3px 0 #f6d9c8,0 5px 10px rgba(168,69,26,.22)}
 .capa .titu .esp{display:inline-block;width:14px}
-/* ⚠️ `caiCasa` e não `cai`: o confete já tem um `@keyframes cai` que termina em
-   `opacity:0`. Nome de keyframe é global — numa outra capa desta casa a colisão
-   apagou o título inteiro, em silêncio. */
-@-webkit-keyframes caiCasa{from{opacity:0;-webkit-transform:translateY(-26px) rotate(-8deg)}to{opacity:1;-webkit-transform:none}}
-@keyframes caiCasa{from{opacity:0;transform:translateY(-26px) rotate(-8deg)}to{opacity:1;transform:none}}
-.capa .sub{font-weight:700;color:#8d4120;font-size:clamp(13px,3.6vw,18px);margin:6px 0 4px}
-.capa .esteira{max-width:660px;margin:16px auto 4px;position:relative}
-.capa .cena{display:flex;justify-content:center;align-items:flex-end;gap:6px;flex-wrap:nowrap}
-.capa .cena img{width:clamp(46px,13vw,96px);height:clamp(46px,13vw,96px);object-fit:contain;
-  -webkit-animation:sobeCasa 2.6s ease-in-out infinite;animation:sobeCasa 2.6s ease-in-out infinite}
-.capa .cena img:nth-child(2){-webkit-animation-delay:.35s;animation-delay:.35s}
-.capa .cena img:nth-child(3){-webkit-animation-delay:.7s;animation-delay:.7s}
-.capa .cena img:nth-child(4){-webkit-animation-delay:1.05s;animation-delay:1.05s}
-.capa .cena img:nth-child(5){-webkit-animation-delay:1.4s;animation-delay:1.4s}
-@-webkit-keyframes sobeCasa{0%,100%{-webkit-transform:translateY(0)}50%{-webkit-transform:translateY(-7px)}}
-@keyframes sobeCasa{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
-.capa .cinta{display:flex;gap:6px;justify-content:center;background:#7b6a5c;border-radius:9px;
-  padding:6px 8px;margin-top:6px;box-shadow:0 6px 14px rgba(70,40,20,.22)}
-.capa .cinta i{display:block;width:26px;height:9px;background:#cbb9a8;border-radius:5px}
-.capa .chamada{margin-top:14px;font-weight:700;color:#5c4c40;font-size:clamp(13px,3.4vw,16px)}
+.capa .titu .pal{display:inline-flex;white-space:nowrap;gap:2px}
+@-webkit-keyframes viraLetra{from{opacity:0;-webkit-transform:rotateY(90deg) translateX(10px)}to{opacity:1;-webkit-transform:none}}
+@keyframes viraLetra{from{opacity:0;transform:rotateY(90deg) translateX(10px)}to{opacity:1;transform:none}}
+.capa .sub{font-weight:700;color:#2c3745;font-size:clamp(13px,3.6vw,18px);margin:6px 0 4px}
+/* a cena: figura | vidro | contrário */
+.capa .cena{display:flex;justify-content:center;align-items:stretch;gap:clamp(8px,3vw,22px);max-width:560px;margin:14px auto 4px}
+.capa .lado{flex:1;max-width:210px;display:flex;flex-direction:column;align-items:center;gap:6px;
+  border-radius:18px;padding:10px 8px 8px}
+.capa .lado.esq{background:rgba(255,255,255,.55);box-shadow:inset 0 0 0 3px #f2c3a9}
+.capa .lado.dir{background:rgba(255,255,255,.55);box-shadow:inset 0 0 0 3px #a9d7df}
+.capa .lado img{width:clamp(64px,20vw,120px);height:clamp(64px,20vw,120px);object-fit:contain;display:block}
+.capa .lado.esq img{-webkit-animation:balancaEsq 3s ease-in-out infinite;animation:balancaEsq 3s ease-in-out infinite}
+.capa .lado.dir img{-webkit-animation:balancaDir 3s ease-in-out infinite;animation:balancaDir 3s ease-in-out infinite}
+@-webkit-keyframes balancaEsq{0%,100%{-webkit-transform:rotate(-4deg)}50%{-webkit-transform:rotate(4deg)}}
+@keyframes balancaEsq{0%,100%{transform:rotate(-4deg)}50%{transform:rotate(4deg)}}
+@-webkit-keyframes balancaDir{0%,100%{-webkit-transform:rotate(4deg)}50%{-webkit-transform:rotate(-4deg)}}
+@keyframes balancaDir{0%,100%{transform:rotate(4deg)}50%{transform:rotate(-4deg)}}
+.capa .rot{font-weight:900;font-size:clamp(15px,4.2vw,22px);letter-spacing:.04em;padding:3px 12px;border-radius:10px;color:#fff}
+.capa .lado.esq .rot{background:var(--avesso)}
+.capa .lado.dir .rot{background:var(--cor)}
+.capa .vidro{flex:none;width:14px;border-radius:8px;position:relative;overflow:hidden;
+  background:-webkit-linear-gradient(top,#9fd3dc,#e8f7f9,#9fd3dc);
+  background:linear-gradient(180deg,#9fd3dc,#e8f7f9,#9fd3dc);box-shadow:0 0 0 2px #6fb6c2,0 6px 16px rgba(20,91,105,.25)}
+.capa .vidro:after{content:"";position:absolute;left:0;right:0;top:-100%;height:60%;
+  background:-webkit-linear-gradient(top,rgba(255,255,255,0),#fff,rgba(255,255,255,0));
+  background:linear-gradient(180deg,rgba(255,255,255,0),#fff,rgba(255,255,255,0));
+  -webkit-animation:brilhaVidro 2.8s ease-in-out infinite;animation:brilhaVidro 2.8s ease-in-out infinite}
+@-webkit-keyframes brilhaVidro{from{top:-70%}to{top:120%}}
+@keyframes brilhaVidro{from{top:-70%}to{top:120%}}
+.capa .chamada{margin-top:14px;font-weight:700;color:#3a4658;font-size:clamp(13px,3.4vw,16px)}
 @media (prefers-reduced-motion: reduce){
-  .capa .titu .lt,.capa .cena img{-webkit-animation:none;animation:none}
+  .capa .titu .lt,.capa .lado img,.capa .vidro:after{-webkit-animation:none;animation:none}
 }
 
 #fim,#retomar{display:none;max-width:880px;margin:12px auto;background:#fff;border-radius:22px;padding:20px 16px;
@@ -725,6 +732,8 @@ img{-webkit-user-drag:none;-khtml-user-drag:none;-moz-user-drag:none;user-drag:n
 .cruz.livre .ccel{border-style:dashed}
 .palgrande.nova{color:#0d7736;background:#e7f8ee;border-radius:12px;padding:6px 14px;
   margin:8px auto 2px;display:table;animation:nasce .45s ease}
+@-webkit-keyframes nasce{from{opacity:0;-webkit-transform:scale(.7)}to{opacity:1;-webkit-transform:scale(1)}}
+@keyframes nasce{from{opacity:0;transform:scale(.7)}to{opacity:1;transform:scale(1)}}
 .lacuna.peq{min-width:56px}
 .sils.min{gap:5px;margin:0}
 .sils.min .sil{min-width:46px;min-height:44px;padding:5px 9px;font-size:clamp(13px,3.6vw,16px)}
@@ -809,7 +818,7 @@ img{-webkit-user-drag:none;-khtml-user-drag:none;-moz-user-drag:none;user-drag:n
 .parfig .figp{width:clamp(72px,22vw,120px);height:auto;display:block}
 .parfig .vs{font:900 clamp(18px,5vw,26px)/1 system-ui;color:#8a93ad}
 .legfig{text-align:center;font:800 clamp(14px,3.8vw,18px)/1.2 system-ui;color:#243056;margin-bottom:6px}
-.figlig{width:clamp(44px,11vw,60px);height:auto;display:inline-block;vertical-align:middle;margin-right:6px}
+.figlig{width:clamp(44px,11vw,60px);height:auto;display:inline-block;vertical-align:middle;margin-right:6px;flex:none}
 .prefixo{display:inline-block;font:900 clamp(18px,5vw,24px)/1 system-ui;color:#fff;background:#8a3fb8;border-radius:10px;padding:8px 12px;margin-right:4px}
 .raiz{display:inline-block;font:800 clamp(18px,5vw,24px)/1 system-ui;color:#243056;background:#f4efe8;border-radius:10px;padding:8px 12px}
 .raiz.cheia{background:#e7f8ee;color:#0d7736}
@@ -2217,8 +2226,17 @@ var VIMG = 2;
    pega: o prefixo de outra pasta vazando para dentro desta. Aqui os DADOS já
    declaram `sb_pato.png` por extenso, que é uma coisa a menos para desencontrar. */
 function img(f, cls, alt){
-  return '<img class="' + (cls || "fig") + '" draggable="false" src="img/' + f +
+  return '<img class="' + (cls || "fig") + '" draggable="false" onload="naoAmplia(this)" src="img/' + f +
          '?v=' + VIMG + '" alt="' + (alt || "") + '">';
+}
+/* ⭐ A FIGURA NUNCA E MOSTRADA MAIOR QUE O PROPRIO ARQUIVO (regra do Marcos, 14/set/2026:
+   "nunca ampliar, nunca gerar"). O CSS da peca da o TETO (clamp); o arquivo da o
+   teto de verdade. Sem isto, um recorte de 88 px saia a 120 px e borrado — o
+   leiaute_mao reprova acima de 1,35x (medido em _sinon2, folha 5). */
+function naoAmplia(im){
+  if(!im || !im.naturalWidth) return;
+  im.style.maxWidth = im.naturalWidth + "px";
+  im.style.maxHeight = im.naturalHeight + "px";
 }
 
 /* ---------- estado ---------- */
@@ -2667,5 +2685,5 @@ function novaFolha(){
   </div>
 </div>
 <!--</dossie-html>-->
-<script src="folhas.js?v=eb28dcd125"></script>
+<script src="folhas.js?v=de0f179f4b"></script>
 </body></html>

@@ -198,16 +198,30 @@ function monta(){
       `img()` de outra atividade: o app abria com um quadradinho vazio e um 404
       no console, e nenhum portão de texto viu. */
 function f0(d){
-  var c = el("div", "capa"), nome = "O Espelho e o Contrário", k, letras = "";
-  for(k = 0; k < nome.length; k++){
-    var ch = nome.charAt(k);
-    letras += ch === " " ? '<span class="esp"></span>'
-      : '<span class="lt" style="animation-delay:' + (0.04 * k).toFixed(2) + 's">' + ch + '</span>';
-  }
+  /* a capa é o ESPELHO: metade das letras do lado quente, metade do lado frio,
+     e cada uma "vira" saindo do vidro (viraLetra). A cena mostra um par de
+     contrários recortado das folhas de papel — o mesmo par da folha 1. */
+  var c = el("div", "capa"), nome = "O Espelho e o Contrário", k, letras = "", meio = Math.floor(nome.length / 2);
+  /* cada palavra vai num <span class="pal"> (nowrap): a quebra de linha acontece
+     ENTRE palavras, nunca no meio de "Contrário" — a foto do celular mostrou o
+     "o" sozinho na linha de baixo */
+  nome.split(" ").forEach(function(pal, w){
+    var ini = nome.indexOf(pal), s = "";
+    for(k = 0; k < pal.length; k++){
+      var ch = pal.charAt(k), pos = ini + k;
+      s += '<span class="lt' + (pos < meio ? ' q' : '') + '" style="animation-delay:' + (0.05 * pos).toFixed(2) + 's">' + ch + '</span>';
+    }
+    letras += (w ? '<span class="esp"></span>' : '') + '<span class="pal">' + s + '</span>';
+  });
   c.innerHTML =
-    '<div class="ceu"><i class="nv n1"></i><i class="nv n2"></i><i class="nv n3"></i><i class="sol"></i></div>' +
+    '<div class="ceu"><i class="raio r1"></i><i class="raio r2"></i></div>' +
     '<h1 class="titu">' + letras + '</h1>' +
     '<div class="sub">Língua Portuguesa &middot; 2º ano &middot; 35 folhas sobre palavras que dizem a mesma coisa e palavras que dizem o contrário</div>' +
+    '<div class="cena">' +
+      '<div class="lado esq"><img src="img/ec_alto_cao.png?v=2" alt=""><span class="rot">ALTO</span></div>' +
+      '<i class="vidro"></i>' +
+      '<div class="lado dir"><img src="img/ec_baixo_cao.png?v=2" alt=""><span class="rot">BAIXO</span></div>' +
+    '</div>' +
     '<div class="chamada">Escreva o seu nome ali embaixo e toque em <b>Começar</b>.</div>';
   d.appendChild(c);
 }
