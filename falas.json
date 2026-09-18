@@ -1,0 +1,3237 @@
+[
+ {
+  "id": "ec_hup8oy",
+  "texto": "Toque primeiro na primeira letra da palavra.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1lnejb8",
+  "texto": "O Espelho e o Contrário. Trinta e cinco folhas sobre palavras que dizem a mesma coisa e palavras que dizem o contrário. Escreva o seu nome ali embaixo e toque em Começar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_xx3ote",
+  "texto": "Antônimos: palavras que dizem o contrário. Por exemplo, quente e frio.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_xbdfjj",
+  "texto": "Sinônimos: palavras que dizem a mesma coisa. Por exemplo, bonito e lindo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_7aa07q",
+  "texto": "Isso mesmo! Bonito tem 3 irmãs: lindo, belo, formoso.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_wu9xrp",
+  "texto": "Muito bem! Calmo tem 3 irmãs: tranquilo, sossegado, quieto.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_85uq0r",
+  "texto": "Você acertou! Alegre tem 3 irmãs: contente, feliz, animado.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1hzejj9",
+  "texto": "Isso mesmo! Caminhar e andar dizem a mesma coisa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_ulntpz",
+  "texto": "Muito bem! Cachorro e cão dizem a mesma coisa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1fbvlwx",
+  "texto": "Você acertou! Tranquilo e calmo dizem a mesma coisa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1y4ll8a",
+  "texto": "Boa! Começar e iniciar dizem a mesma coisa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_tmdgzr",
+  "texto": "Exatamente! Acabar e terminar dizem a mesma coisa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_3msjnu",
+  "texto": "Isso mesmo! Comprido e longo dizem a mesma coisa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1si5rih",
+  "texto": "Muito bem! Acordar e dormir dizem o contrário.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_hv09vv",
+  "texto": "Você acertou! Lindo e bonito dizem a mesma coisa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1jpku8c",
+  "texto": "Boa! Cair e levantar dizem o contrário.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_3wyc1l",
+  "texto": "Exatamente! Gelado e frio dizem a mesma coisa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_h45kn0",
+  "texto": "É isso aí! Fechar e abrir dizem o contrário.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_hujyvg",
+  "texto": "Isso mesmo! Rápido e lento dizem o contrário.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_19ez5np",
+  "texto": "Muito bem! Amar e adorar dizem a mesma coisa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_mx8tzs",
+  "texto": "Isso mesmo! Ajudar e atrapalhar dizem o contrário.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_feb4bl",
+  "texto": "Muito bem! Amigo e inimigo dizem o contrário.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_tflez2",
+  "texto": "Você acertou! Alegre e contente dizem a mesma coisa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_g4t6nl",
+  "texto": "Boa! Presente e ausente dizem o contrário.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1nxwcix",
+  "texto": "Exatamente! Vitória e derrota dizem o contrário.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1th5ff4",
+  "texto": "É isso aí! Gostoso e saboroso dizem a mesma coisa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_ucl6ra",
+  "texto": "Isso mesmo! Duro e mole dizem o contrário.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1ajvojg",
+  "texto": "Muito bem! Casa e moradia dizem a mesma coisa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_vyzq3t",
+  "texto": "Isso mesmo! Os alunos estudaram pouco.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1lelepu",
+  "texto": "Muito bem! A cigarra cantava muito mal.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_4j7lgx",
+  "texto": "Você acertou! Hoje o dia está muito frio.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_11h1h20",
+  "texto": "Boa! O formigueiro era grande.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_11j64r4",
+  "texto": "Exatamente! A janela do quarto está fechada.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_14788wa",
+  "texto": "Isso mesmo! O poste é alto, o muro é baixo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_7g3ha7",
+  "texto": "Muito bem! A bola está dentro da caixa e o pião está fora.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1x0vsme",
+  "texto": "Você acertou! O cachorro estava molhado e o gato estava seco.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1lrlau4",
+  "texto": "Boa! Carlos ficou irritado, depois ficou calmo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_g40vn0",
+  "texto": "Exatamente! A rua é larga e o beco é estreito.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_dhfe5x",
+  "texto": "Isso mesmo! O gelo é frio, o fogo é quente.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1us96ud",
+  "texto": "Muito bem! O elefante é grande, a formiga é pequena.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_179enq",
+  "texto": "Você acertou! De dia está claro, de noite está escuro.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1sdw7kp",
+  "texto": "Boa! A porta está aberta ou está fechada?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_zole5z",
+  "texto": "Exatamente! O cesto estava cheio, agora está vazio.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1vpgxtg",
+  "texto": "Isso mesmo! Que bolo gostoso, que bolo saboroso!",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1vf16x9",
+  "texto": "Muito bem! Que menino alegre, que menino feliz!",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_12vtnqr",
+  "texto": "Você acertou! Que casa bonita, que casa linda!",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1njr3dt",
+  "texto": "Boa! Que caminho comprido, que caminho longo!",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_16mwtqz",
+  "texto": "Exatamente! Que cachorro bravo, que cachorro feroz!",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_158k9pf",
+  "texto": "Isso mesmo! Nada disso, o dia está frio.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_yw5l9y",
+  "texto": "Muito bem! Que nada, ela é leve.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_dd4bj4",
+  "texto": "Você acertou! Que nada, ela está suja.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_h27cl5",
+  "texto": "Boa! Que nada, ele está amargo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1ne60zv",
+  "texto": "Exatamente! Que nada, ele é baixo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_15hnadq",
+  "texto": "Isso mesmo! Recordar é irmã de lembrar, que está no número 1.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1yx7sls",
+  "texto": "Muito bem! Distante é irmã de longe, que está no número 2.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1y07ov6",
+  "texto": "Você acertou! Gostar é irmã de amar, que está no número 3.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1071z2c",
+  "texto": "Boa! Achar é irmã de encontrar, que está no número 4.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1mn82tr",
+  "texto": "Exatamente! Correto é irmã de certo, que está no número 5.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1ixik7y",
+  "texto": "Isso mesmo! Sopa quente, e Sopa fria.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_zmw7zp",
+  "texto": "Muito bem! Roupa molhada, e Roupa seca.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1xogbz9",
+  "texto": "Você acertou! Janela aberta, e Janela fechada.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_19abo3w",
+  "texto": "Boa! Cesto cheio, e Cesto vazio.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_z9ppi7",
+  "texto": "Isso mesmo! Abrir.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1kli4lo",
+  "texto": "Muito bem! Dentro.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1jz6iaz",
+  "texto": "Você acertou! Muito.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_csfpsf",
+  "texto": "Boa! Sair.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_cmqkp9",
+  "texto": "Exatamente! Achar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_zek50m",
+  "texto": "É isso aí! Longe.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_12dhvah",
+  "texto": "Isso mesmo! Feliz.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_vpkr9y",
+  "texto": "Muito bem! Perto.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1s9e5nx",
+  "texto": "Você acertou! Pacote.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1evxrty",
+  "texto": "Boa! Lindo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1o3dtq",
+  "texto": "Exatamente! Veloz.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_trwtxh",
+  "texto": "É isso aí! Calmo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_s3wefy",
+  "texto": "Isso mesmo! Vazio.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_mqkdme",
+  "texto": "Muito bem! Feliz.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1pv7avk",
+  "texto": "Você acertou! Gordo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1mhkyqn",
+  "texto": "Boa! Mau.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_9ig4h5",
+  "texto": "Exatamente! Baixo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1gfb3es",
+  "texto": "É isso aí! Triste.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1g3578r",
+  "texto": "Isso mesmo! Quente.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1bg18o5",
+  "texto": "Muito bem! Aberto.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_118h75w",
+  "texto": "Isso mesmo! Ligar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1kpgvn2",
+  "texto": "Muito bem! Depois.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1qbq3bi",
+  "texto": "Você acertou! Dormir.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_cd9p7y",
+  "texto": "Boa! Azar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_csukxv",
+  "texto": "Exatamente! Adoro.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_13qs4se",
+  "texto": "É isso aí! Sumiu.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_kw5rl6",
+  "texto": "Isso mesmo! Perto e próximo são um par.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_e4pjts",
+  "texto": "Muito bem! Rápido e veloz são um par.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_fuinep",
+  "texto": "Você acertou! Gostoso e delicioso são um par.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1n2gjy2",
+  "texto": "Boa! Certo e correto são um par.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_h0tk7l",
+  "texto": "Exatamente! Feliz e alegre são um par.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1g91ent",
+  "texto": "É isso aí! Bonito e lindo são um par.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_n0xvmh",
+  "texto": "Isso mesmo! Lindo é irmã de bonito.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_8up1g3",
+  "texto": "Muito bem! Alegre é irmã de feliz.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_gk3x5j",
+  "texto": "Você acertou! Veloz é irmã de rápido.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1rqgpzi",
+  "texto": "Boa! Belo é irmã de bonito.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_ft41zv",
+  "texto": "Exatamente! Ligeiro é irmã de rápido.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_yqjdl0",
+  "texto": "É isso aí! Contente é irmã de feliz.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_13k61zl",
+  "texto": "Isso mesmo! Infeliz: é feliz com um pedacinho na frente, e vira o contrário.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_v0llda",
+  "texto": "Muito bem! Incerto: é certo com um pedacinho na frente, e vira o contrário.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_26kb0l",
+  "texto": "Você acertou! Injusto: é justo com um pedacinho na frente, e vira o contrário.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1jbq24i",
+  "texto": "Boa! Incapaz: é capaz com um pedacinho na frente, e vira o contrário.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_kohmc0",
+  "texto": "Exatamente! Invisível: é visível com um pedacinho na frente, e vira o contrário.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_vwvblt",
+  "texto": "Isso mesmo! Infeliz, o contrário de feliz.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1uiadel",
+  "texto": "Muito bem! Impossível, o contrário de possível.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_qt0uid",
+  "texto": "Você acertou! Incapaz, o contrário de capaz.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_w71b3l",
+  "texto": "Boa! Impaciente, o contrário de paciente.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_nefmxu",
+  "texto": "Isso mesmo! Imperfeito, o contrário de perfeito.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_pavxr2",
+  "texto": "Muito bem! Inútil, o contrário de útil.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_4d2ek6",
+  "texto": "Você acertou! Impróprio, o contrário de próprio.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_ianbg2",
+  "texto": "Boa! Invisível, o contrário de visível.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_er6ov7",
+  "texto": "Exatamente! Impuro, o contrário de puro.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_6t5rx",
+  "texto": "É isso aí! Incompleto, o contrário de completo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_54dnbi",
+  "texto": "Isso mesmo! Infeliz.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1pqbao2",
+  "texto": "Muito bem! Incerto.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_7da33c",
+  "texto": "Você acertou! Impossível.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_xmb1qg",
+  "texto": "Boa! Incapaz.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_aez9g1",
+  "texto": "Exatamente! Impaciente.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_10q4fmk",
+  "texto": "Isso mesmo! Feliz e triste são contrários.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_15j7bfg",
+  "texto": "Muito bem! Grande e pequeno são contrários.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_411agf",
+  "texto": "Você acertou! Bravo e manso são contrários.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_qsnx2i",
+  "texto": "Boa! Limpo e sujo são contrários.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1u9l8gw",
+  "texto": "Exatamente! Quente e frio são contrários.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1hwljwy",
+  "texto": "Isso mesmo! Antes de P e de B, o pedacinho é IM.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_121pdks",
+  "texto": "Muito bem! Antes das outras letras, o pedacinho é IN.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_180yilr",
+  "texto": "Você acertou! O pedacinho IN ou IM na frente da palavra faz ela virar o seu contrário.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1egobuv",
+  "texto": "Muito bem! Você achou todas.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_7on7yo",
+  "texto": "Isso mesmo! O menino baixo pulou o muro.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1deq8t5",
+  "texto": "Muito bem! A sopa está fria.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_149v0q0",
+  "texto": "Você acertou! A rua está suja.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_dtbscc",
+  "texto": "Boa! O cofre está vazio.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1nmtkxp",
+  "texto": "Exatamente! O gato branco dormiu.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_u70dty",
+  "texto": "Essa vale! A palavra é sua.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_pzy6hp",
+  "texto": "Isso mesmo! Feliz e alegre são sinônimos.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_zlf3ai",
+  "texto": "Muito bem! Cheio e vazio são antônimos.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_lcajkj",
+  "texto": "Você acertou! Perto e próximo são sinônimos.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_ltrvhe",
+  "texto": "Boa! Feliz e infeliz são antônimos.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1blv1lq",
+  "texto": "Exatamente! Cão e cachorro são sinônimos.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_15bsimf",
+  "texto": "É isso aí! Aberto e fechado são antônimos.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1c5jvz1",
+  "texto": "Isso mesmo! Solto e preso são contrários.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1fg1z1u",
+  "texto": "Você acertou! Alto e baixo são contrários.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1a6v6mb",
+  "texto": "Boa! Ensolarado e nublado são contrários.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_xexher",
+  "texto": "Exatamente! Preto e branco são contrários.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_2r4i91",
+  "texto": "Isso mesmo! Alegre e triste.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_tm69n",
+  "texto": "Muito bem! Sujo e limpo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_l69bwx",
+  "texto": "Você acertou! Dia e noite.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_59f23u",
+  "texto": "Boa! Acordado e dormindo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_wxmk06",
+  "texto": "Isso mesmo! Bravo e manso.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_ajzruj",
+  "texto": "Muito bem! Limpo e sujo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_88etuw",
+  "texto": "Você acertou! Quente e frio.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1o1iyq5",
+  "texto": "Boa! Grande e pequeno.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_16qw0hm",
+  "texto": "Isso mesmo! Cedo e tarde dizem o contrário.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_az5nxl",
+  "texto": "Você acertou! Frio e quente dizem o contrário.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_10wfc43",
+  "texto": "Boa! Barulho e ruído dizem a mesma coisa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1jujywn",
+  "texto": "Exatamente! Gordo e magro dizem o contrário.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_gyj69d",
+  "texto": "É isso aí! Pulo e salto dizem a mesma coisa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_18tqt6",
+  "texto": "Isso mesmo! Alegre e contente dizem a mesma coisa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1aok8bl",
+  "texto": "Muito bem! Feio e horrível dizem a mesma coisa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1l2cu69",
+  "texto": "Você acertou! Longe e distante dizem a mesma coisa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1nib0sw",
+  "texto": "Boa! Casa e moradia dizem a mesma coisa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1w0vpyb",
+  "texto": "É isso aí! Bonito e lindo dizem a mesma coisa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_17f020b",
+  "texto": "Isso mesmo! Achar e encontrar dizem a mesma coisa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_8losej",
+  "texto": "Muito bem! Acordar e despertar dizem a mesma coisa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_qk7w17",
+  "texto": "Você acertou! Sumiu e desapareceu dizem a mesma coisa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_19ncdf5",
+  "texto": "Boa! Feroz e bravo dizem a mesma coisa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1t31rje",
+  "texto": "Exatamente! Guloso e comilão dizem a mesma coisa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_e3gq0h",
+  "texto": "É isso aí! Começo e início dizem a mesma coisa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1ljimrb",
+  "texto": "Isso mesmo! Perto e próximo são irmãs.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_13aqadj",
+  "texto": "Muito bem! Bonito e lindo são irmãs.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_sgdr1t",
+  "texto": "Você acertou! Rabo e cauda são irmãs.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_v50fua",
+  "texto": "Boa! Equipe e time são irmãs.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_ff4bm4",
+  "texto": "Exatamente! Alegre e feliz são irmãs.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1g9d2c1",
+  "texto": "Cíntia diz: Que bolo gostoso, que bolo lacuna!",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_o8wxud",
+  "texto": "Cíntia diz: Que menino alegre, que menino lacuna!",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_zknxhu",
+  "texto": "Cíntia diz: Que casa bonita, que casa lacuna!",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1bpeuj0",
+  "texto": "Cíntia diz: Que caminho comprido, que caminho lacuna!",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1i5vfwl",
+  "texto": "Cíntia diz: Que cachorro bravo, que cachorro lacuna!",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1b8bw27",
+  "texto": "O contrário de fechar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1sxw2we",
+  "texto": "O contrário de fora.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1x3umaa",
+  "texto": "O contrário de pouco.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_75gg8a",
+  "texto": "O contrário de entrar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_blatc0",
+  "texto": "O contrário de perder.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1x89c2w",
+  "texto": "O contrário de perto.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_aqxdfj",
+  "texto": "A palavra irmã de alegre.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1399wsl",
+  "texto": "A palavra irmã de próximo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1tr75sx",
+  "texto": "A palavra irmã de embrulho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_166vrfa",
+  "texto": "A palavra irmã de bonito.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_mzsz46",
+  "texto": "A palavra irmã de rápido.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_108bstc",
+  "texto": "A palavra irmã de tranquilo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_8xt81o",
+  "texto": "O contrário de CHEIO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_10mk5yn",
+  "texto": "O contrário de INFELIZ.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_abmpsy",
+  "texto": "O contrário de MAGRO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_12k2d6c",
+  "texto": "O contrário de BOM.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1symerm",
+  "texto": "O contrário de ALTO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1vr8ai4",
+  "texto": "O contrário de ALEGRE.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1sxu0w6",
+  "texto": "O contrário de FRIO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1uzjp2u",
+  "texto": "O contrário de FECHADO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_18e1zuu",
+  "texto": "Vou DESLIGAR a luz.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_nopwgp",
+  "texto": "Ele chegou ANTES.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_3426ea",
+  "texto": "Vou ACORDAR cedo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_scurru",
+  "texto": "Que SORTE!",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_14484sq",
+  "texto": "Eu DETESTO chuva.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1ea0qao",
+  "texto": "O sol APARECEU.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_5zvwsw",
+  "texto": "Tem mais de uma irmã. E cuidado: uma das palavras diz o contrário de bonito.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1i3u1gt",
+  "texto": "Tem mais de uma irmã. E cuidado: uma das palavras diz o contrário de calmo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1lh3jeh",
+  "texto": "Tem mais de uma irmã. E cuidado: uma das palavras diz o contrário de alegre.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1wqwi5l",
+  "texto": "Conte as casinhas: a palavra tem 5 letras. Diga caminhar de outro jeito.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_15pk88l",
+  "texto": "Conte as casinhas: a palavra tem 3 letras. Diga cachorro de outro jeito.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1bbqph9",
+  "texto": "Conte as casinhas: a palavra tem 5 letras. Diga tranquilo de outro jeito.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1aych4",
+  "texto": "Conte as casinhas: a palavra tem 7 letras. Diga começar de outro jeito.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1sr32hx",
+  "texto": "Conte as casinhas: a palavra tem 8 letras. Diga acabar de outro jeito.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1hy3ron",
+  "texto": "Diga as duas palavras: comprido, longo. Uma coisa pode ser as duas ao mesmo tempo?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_szqihw",
+  "texto": "Diga as duas palavras: acordar, dormir. Uma coisa pode ser as duas ao mesmo tempo?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_oamb3m",
+  "texto": "Diga as duas palavras: lindo, bonito. Uma coisa pode ser as duas ao mesmo tempo?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_ag8sml",
+  "texto": "Diga as duas palavras: cair, levantar. Uma coisa pode ser as duas ao mesmo tempo?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_zt1rrp",
+  "texto": "Diga as duas palavras: gelado, frio. Uma coisa pode ser as duas ao mesmo tempo?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_mcjxle",
+  "texto": "Diga as duas palavras: fechar, abrir. Uma coisa pode ser as duas ao mesmo tempo?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_s5ijby",
+  "texto": "Diga as duas palavras: rápido, lento. Uma coisa pode ser as duas ao mesmo tempo?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_19eaflj",
+  "texto": "Diga as duas palavras: amar, adorar. Uma coisa pode ser as duas ao mesmo tempo?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1ai133e",
+  "texto": "Diga as duas palavras: ajudar, atrapalhar. Uma coisa pode ser as duas ao mesmo tempo?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_aw4hv0",
+  "texto": "Diga as duas palavras: amigo, inimigo. Uma coisa pode ser as duas ao mesmo tempo?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_tcb5zr",
+  "texto": "Diga as duas palavras: alegre, contente. Uma coisa pode ser as duas ao mesmo tempo?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_19f5byo",
+  "texto": "Diga as duas palavras: presente, ausente. Uma coisa pode ser as duas ao mesmo tempo?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_bc815m",
+  "texto": "Diga as duas palavras: vitória, derrota. Uma coisa pode ser as duas ao mesmo tempo?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1tzeudd",
+  "texto": "Diga as duas palavras: gostoso, saboroso. Uma coisa pode ser as duas ao mesmo tempo?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1r9edb8",
+  "texto": "Diga as duas palavras: duro, mole. Uma coisa pode ser as duas ao mesmo tempo?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_v2txta",
+  "texto": "Diga as duas palavras: casa, moradia. Uma coisa pode ser as duas ao mesmo tempo?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_mr7vi1",
+  "texto": "Pense no oposto, no avesso, no que é totalmente diferente.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_116ltjp",
+  "texto": "Olhe de novo as duas figuras: o que mudou de uma para a outra?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_lg1leb",
+  "texto": "Diga a palavra em voz alta e pense: o que é o contrário disso?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_6upfi6",
+  "texto": "O contrário de FRIO. Diga a frase inteira em voz alta.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1lt8vcn",
+  "texto": "O contrário de GRANDE. Diga a frase inteira em voz alta.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1y8gm5b",
+  "texto": "O contrário de CLARO. Diga a frase inteira em voz alta.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_9qxbh",
+  "texto": "O contrário de ABERTA. Diga a frase inteira em voz alta.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1id0hvo",
+  "texto": "O contrário de CHEIO. Diga a frase inteira em voz alta.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1rlpq7d",
+  "texto": "A Cíntia repete com uma palavra irmã, que diz a mesma coisa. Qual das três é irmã?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_ja0yjq",
+  "texto": "O Leo discorda: ele diz o contrário do que a Cíntia disse. Qual é o contrário?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_e9inxr",
+  "texto": "Leia a coluna da esquerda de novo. Qual palavra quer dizer recordar?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1r0nyud",
+  "texto": "Leia a coluna da esquerda de novo. Qual palavra quer dizer distante?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_14kuky5",
+  "texto": "Leia a coluna da esquerda de novo. Qual palavra quer dizer gostar?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_7m0gvc",
+  "texto": "Leia a coluna da esquerda de novo. Qual palavra quer dizer achar?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_an3omb",
+  "texto": "Leia a coluna da esquerda de novo. Qual palavra quer dizer correto?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_195ac00",
+  "texto": "Pense na palavra e procure a primeira letra dela na grade. Siga para o lado.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1tj7dza",
+  "texto": "Diga a palavra da pista em voz alta e pense no contrário dela. Conte as casinhas.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_14vhqr8",
+  "texto": "Pense em perto. Qual carta de cima quer dizer a mesma coisa?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_grkvvt",
+  "texto": "Pense em rápido. Qual carta de cima quer dizer a mesma coisa?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1jq2yj8",
+  "texto": "Pense em gostoso. Qual carta de cima quer dizer a mesma coisa?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1qs6puv",
+  "texto": "Pense em certo. Qual carta de cima quer dizer a mesma coisa?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_mrvlxw",
+  "texto": "Pense em feliz. Qual carta de cima quer dizer a mesma coisa?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_19lyyex",
+  "texto": "Pense em bonito. Qual carta de cima quer dizer a mesma coisa?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_y840fr",
+  "texto": "Leia a legenda: de quem é a irmã lindo? Pegue a canetinha dessa palavra.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_16ju9zj",
+  "texto": "Leia a legenda: de quem é a irmã alegre? Pegue a canetinha dessa palavra.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1gpksbh",
+  "texto": "Leia a legenda: de quem é a irmã veloz? Pegue a canetinha dessa palavra.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_jiv05v",
+  "texto": "Leia a legenda: de quem é a irmã belo? Pegue a canetinha dessa palavra.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1g5apms",
+  "texto": "Leia a legenda: de quem é a irmã ligeiro? Pegue a canetinha dessa palavra.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_d83r4r",
+  "texto": "Leia a legenda: de quem é a irmã contente? Pegue a canetinha dessa palavra.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_83vaze",
+  "texto": "Procure a palavra feliz escondida dentro de uma das três. Com um pedacinho a mais na frente.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1xvy689",
+  "texto": "Procure a palavra certo escondida dentro de uma das três. Com um pedacinho a mais na frente.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1iz8501",
+  "texto": "Procure a palavra justo escondida dentro de uma das três. Com um pedacinho a mais na frente.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_145q5db",
+  "texto": "Procure a palavra capaz escondida dentro de uma das três. Com um pedacinho a mais na frente.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_17oslbs",
+  "texto": "Procure a palavra visível escondida dentro de uma das três. Com um pedacinho a mais na frente.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_elhxbi",
+  "texto": "Diga as duas: infeliz, imfeliz. Qual soa como uma palavra de verdade? Olhe a primeira letra de feliz.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_2u7odb",
+  "texto": "Diga as duas: inpossível, impossível. Qual soa como uma palavra de verdade? Olhe a primeira letra de possível.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1z0qbaz",
+  "texto": "Diga as duas: incapaz, imcapaz. Qual soa como uma palavra de verdade? Olhe a primeira letra de capaz.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_y1v7ub",
+  "texto": "Diga as duas: inpaciente, impaciente. Qual soa como uma palavra de verdade? Olhe a primeira letra de paciente.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_12ijtgk",
+  "texto": "Diga as duas: inperfeito, imperfeito. Qual soa como uma palavra de verdade? Olhe a primeira letra de perfeito.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1dm5h5l",
+  "texto": "Diga as duas: inútil, imútil. Qual soa como uma palavra de verdade? Olhe a primeira letra de útil.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_3l896v",
+  "texto": "Diga as duas: inpróprio, impróprio. Qual soa como uma palavra de verdade? Olhe a primeira letra de próprio.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1cv2vpo",
+  "texto": "Diga as duas: invisível, imvisível. Qual soa como uma palavra de verdade? Olhe a primeira letra de visível.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_18aw68a",
+  "texto": "Diga as duas: inpuro, impuro. Qual soa como uma palavra de verdade? Olhe a primeira letra de puro.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_vwgq7l",
+  "texto": "Diga as duas: incompleto, imcompleto. Qual soa como uma palavra de verdade? Olhe a primeira letra de completo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1e57d89",
+  "texto": "Escreva o pedacinho primeiro, IN ou IM, e depois a palavra inteira.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_gk8xxc",
+  "texto": "Olhe a figura de feliz. Qual desenho mostra exatamente o oposto?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_6l1byf",
+  "texto": "Olhe a figura de grande. Qual desenho mostra exatamente o oposto?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_12s91as",
+  "texto": "Olhe a figura de bravo. Qual desenho mostra exatamente o oposto?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1tz3k2z",
+  "texto": "Olhe a figura de limpo. Qual desenho mostra exatamente o oposto?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_176r39e",
+  "texto": "Olhe a figura de quente. Qual desenho mostra exatamente o oposto?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_cbnztb",
+  "texto": "Lembre das palavras que você escreveu: impossível, impaciente, infeliz, incapaz. Olhe a letra depois do pedacinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_i2tsz9",
+  "texto": "Leia linha por linha. São 4 palavras. Toque em cada uma e depois confira.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1q8yhkk",
+  "texto": "Leia linha por linha. São 5 palavras. Toque em cada uma e depois confira.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_a5rj3i",
+  "texto": "Olhe a palavra destacada e pense no contrário dela. Só uma das frases usa esse contrário.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1uweifh",
+  "texto": "Pense numa palavra que caiba no pedido. Vale mais de uma.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_11xebjd",
+  "texto": "Diga as duas palavras. Elas dizem a mesma coisa, ou o contrário?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_ocmf7b",
+  "texto": "Olhe a figura de solto. Qual desenho mostra exatamente o oposto?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1ohvoa2",
+  "texto": "Olhe a figura de alto. Qual desenho mostra exatamente o oposto?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_207ggu",
+  "texto": "Olhe a figura de ensolarado. Qual desenho mostra exatamente o oposto?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1yog7ls",
+  "texto": "Olhe a figura de preto. Qual desenho mostra exatamente o oposto?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_13u38mm",
+  "texto": "Olhe a segunda figura e diga em voz alta o que ela mostra. Escreva essa palavra.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1n7klrc",
+  "texto": "Diga as duas palavras: cedo, tarde. Uma coisa pode ser as duas ao mesmo tempo?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_dqu7s5",
+  "texto": "Diga as duas palavras: cachorro, cão. Uma coisa pode ser as duas ao mesmo tempo?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_wewi7j",
+  "texto": "Diga as duas palavras: frio, quente. Uma coisa pode ser as duas ao mesmo tempo?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1juczx",
+  "texto": "Diga as duas palavras: barulho, ruído. Uma coisa pode ser as duas ao mesmo tempo?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_m66k10",
+  "texto": "Diga as duas palavras: gordo, magro. Uma coisa pode ser as duas ao mesmo tempo?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1l0eiow",
+  "texto": "Diga as duas palavras: pulo, salto. Uma coisa pode ser as duas ao mesmo tempo?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_sbb3o2",
+  "texto": "Ponha as duas palavras numa frase. A frase continua dizendo a mesma coisa?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1249ik",
+  "texto": "Palavra irmã é a que você pode trocar sem mudar o sentido.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1v0qqs7",
+  "texto": "Uma das opções diz o contrário. Não é essa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1er6oc",
+  "texto": "Pense em perto. Qual palavra da direita quer dizer a mesma coisa?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_e6sjtt",
+  "texto": "Pense em bonito. Qual palavra da direita quer dizer a mesma coisa?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1flvi32",
+  "texto": "Pense em rabo. Qual palavra da direita quer dizer a mesma coisa?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_116w019",
+  "texto": "Pense em equipe. Qual palavra da direita quer dizer a mesma coisa?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_15kjcug",
+  "texto": "Pense em alegre. Qual palavra da direita quer dizer a mesma coisa?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_wolaj0",
+  "texto": "Cedo, tarde.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1c9z7hd",
+  "texto": "Cachorro, cão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_8xnnjf",
+  "texto": "Frio, quente.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1qcxuh5",
+  "texto": "Barulho, ruído.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_5rrmkg",
+  "texto": "Gordo, magro.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1d78b5w",
+  "texto": "Pulo, salto.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1oup2eb",
+  "texto": "Comprido, longo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1jqhurk",
+  "texto": "Acordar, dormir.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1tarljq",
+  "texto": "Lindo, bonito.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_jnxrs9",
+  "texto": "Cair, levantar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_c3ykcx",
+  "texto": "Gelado, frio.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1j0fmt2",
+  "texto": "Fechar, abrir.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_ld8l2y",
+  "texto": "Rápido, lento.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_12xuoqb",
+  "texto": "Amar, adorar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1x7l2dq",
+  "texto": "Ajudar, atrapalhar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_26igp4",
+  "texto": "Amigo, inimigo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_d1vz83",
+  "texto": "Alegre, contente.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_kp14dw",
+  "texto": "Presente, ausente.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1j6irr2",
+  "texto": "Vitória, derrota.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_qhmlvp",
+  "texto": "Gostoso, saboroso.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1i4388w",
+  "texto": "Duro, mole.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_17h2ayy",
+  "texto": "Casa, moradia.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_s69mtb",
+  "texto": "Escreva a palavra usando o teclado.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1age5xz",
+  "texto": "Alegre. E o contrário?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1n1tgq4",
+  "texto": "Sujo. E o contrário?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_g656lf",
+  "texto": "Dia. E o contrário?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_15ugswu",
+  "texto": "Acordado. E o contrário?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_adpyx3",
+  "texto": "Bravo. E o contrário?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_15an0ag",
+  "texto": "Limpo. E o contrário?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_do3v2p",
+  "texto": "Quente. E o contrário?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_15mqa38",
+  "texto": "Grande. E o contrário?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_swndu2",
+  "texto": "feliz e alegre.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1nh4a5",
+  "texto": "cheio e vazio.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_r9jd2o",
+  "texto": "perto e próximo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_l9j83t",
+  "texto": "feliz e infeliz.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1gxiug",
+  "texto": "cão e cachorro.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_o6i1nn",
+  "texto": "aberto e fechado.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1vpljie",
+  "texto": "Você chegou ao fim! Agora olhe em volta da sala e escolha uma coisa. Pense numa palavra que diz como ela é. E depois, no contrário. Conte para um colega e veja se ele acha a mesma palavra que você.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1d9s73k",
+  "texto": "Folha pronta! Muito bem.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1jvtwcb",
+  "texto": "Os alunos estudaram muito.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_12gnasp",
+  "texto": "A cigarra cantava muito bem.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1h0az4n",
+  "texto": "Hoje o dia está muito quente.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1avr17f",
+  "texto": "O formigueiro era pequeno.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_lkfn4y",
+  "texto": "A janela do quarto está aberta.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1fctlwd",
+  "texto": "O poste é alto, o muro é lacuna.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_jmgjf0",
+  "texto": "A bola está lacuna da caixa e o pião está fora.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_phanuq",
+  "texto": "O cachorro estava molhado e o gato estava lacuna.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_4ir9bd",
+  "texto": "Carlos ficou irritado, depois ficou lacuna.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_lfbvb4",
+  "texto": "A rua é larga e o beco é lacuna.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1haun1d",
+  "texto": "O gelo é frio, o fogo é lacuna.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_13cry5n",
+  "texto": "O elefante é grande, a formiga é lacuna.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_l5moj9",
+  "texto": "De dia está claro, de noite está lacuna.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_164zuvg",
+  "texto": "A porta está aberta ou está lacuna?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_pxqczb",
+  "texto": "O cesto estava cheio, agora está lacuna.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_14kczef",
+  "texto": "Gaveta das palavras que dizem o contrário.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1734kh4",
+  "texto": "Gaveta das palavras que dizem a mesma coisa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_we8wak",
+  "texto": "Caminhar. Acrescente as vogais: alguma coisa, N, D, alguma coisa, R.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_11yaxgg",
+  "texto": "Cachorro. Uma palavrinha de três letras.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_7xiqu1",
+  "texto": "Tranquilo. Cinco letras: quem não está nervoso está….",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_y1h1wt",
+  "texto": "Começar. Sete letras: dar início.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_po5vuj",
+  "texto": "Acabar. Oito letras: chegar ao fim.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1aqosfa",
+  "texto": "Canetinha azul: para as irmãs de bonito.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_gsz1w2",
+  "texto": "Canetinha laranja: para as irmãs de feliz.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_uplrpa",
+  "texto": "Canetinha roxo: para as irmãs de rápido.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_55j7mi",
+  "texto": "Cíntia diz: Que dia quente! E o Leo responde: Nada disso, o dia está lacuna.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1qm0asa",
+  "texto": "Cíntia diz: Que caixa pesada! E o Leo responde: Que nada, ela é lacuna.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1u53dvj",
+  "texto": "Cíntia diz: Que rua limpa! E o Leo responde: Que nada, ela está lacuna.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1w6uwsk",
+  "texto": "Cíntia diz: Que café doce! E o Leo responde: Que nada, ele está lacuna.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_dryymu",
+  "texto": "Cíntia diz: Que menino alto! E o Leo responde: Que nada, ele é lacuna.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_fhq9za",
+  "texto": "Triste.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_mchxlj",
+  "texto": "Feliz.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_ctar9a",
+  "texto": "Pequeno.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1eio6nk",
+  "texto": "Grande.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_o7l00l",
+  "texto": "Manso.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_p1a94z",
+  "texto": "Bravo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_383iyw",
+  "texto": "Sujo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_nhp6os",
+  "texto": "Limpo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_2tzbll",
+  "texto": "Frio.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1bxp0ut",
+  "texto": "Quente.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_v16xxs",
+  "texto": "Preso.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_zw9474",
+  "texto": "Solto.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_ouy85y",
+  "texto": "Baixo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_2t6xq5",
+  "texto": "Alto.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1eto61g",
+  "texto": "Nublado.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_82mdl",
+  "texto": "Ensolarado.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_18unxtk",
+  "texto": "Branco.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_v1709j",
+  "texto": "Preto.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1oaaion",
+  "texto": "Toque numa palavra do lado esquerdo e depois na do lado direito.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_16hwwfp",
+  "texto": "Caderno novo! Escreva o seu nome e toque em Começar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1gy5wjf",
+  "texto": "Número 1.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1gy5wig",
+  "texto": "Número 2.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1gy5wl5",
+  "texto": "Número 3.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1gy5wda",
+  "texto": "Número 4.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1gy5wfz",
+  "texto": "Número 5.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_t5p6lj",
+  "texto": "Uma palavra pode ter mais de uma irmã. Marque todas as que dizem a mesma coisa e depois toque em Conferir.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1s8lnze",
+  "texto": "As casinhas dizem quantas letras tem a palavra irmã. Leia a pista e escreva.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_994kmj",
+  "texto": "As duas gavetas de novo, com pares novos. Diga as duas palavras em voz alta antes de escolher.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_jjfzzv",
+  "texto": "Os pares mais difíceis. Pense: eu poderia trocar uma pela outra na frase?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_hw2rif",
+  "texto": "Leia a frase. Troque a palavra destacada pelo contrário dela e veja a frase nova aparecer.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_wpryz",
+  "texto": "Agora a frase tem um buraco. Preencha com o contrário da palavra que já está nela.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_rd0cjr",
+  "texto": "Sem opções desta vez: escreva o contrário que falta na frase.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_woi7sy",
+  "texto": "A Cíntia é exagerada: diz tudo duas vezes, com palavras irmãs. Preencha a fala dela.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_6jmv8b",
+  "texto": "O Leo é o contrário da Cíntia: discorda de tudo. Preencha a resposta dele com o contrário.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_5wazi8",
+  "texto": "A coluna da esquerda tem números. Para cada palavra da direita, toque no número da irmã dela.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_113nrj3",
+  "texto": "Olhe as duas figuras. A primeira tem um nome. Escolha a palavra que diz o contrário para a segunda.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_bb990o",
+  "texto": "Ache na grade o contrário de cada palavra da lista: toque na primeira letra e depois na última.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_jbvw72",
+  "texto": "Agora ache a palavra irmã, a que diz a mesma coisa. Primeira letra, depois a última.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_16v2y4w",
+  "texto": "Toque numa pista, escute e escreva o contrário na cruzadinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_19t61im",
+  "texto": "Agora a palavra está dentro da frase. Escreva o contrário da palavra em letra grande.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_9yeugd",
+  "texto": "Cada carta de baixo tem uma irmã em cima. Puxe a carta até o par dela, ou toque numa e depois na outra.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1fkct82",
+  "texto": "Pegue uma canetinha e pinte as palavras irmãs com a mesma cor. A legenda diz de quem é cada cor.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_19vblqp",
+  "texto": "Leia a frase. Uma das palavras é o contrário da palavra destacada, e ela ganhou um pedacinho a mais na frente. Qual é?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_arvesj",
+  "texto": "O pedacinho é IN ou IM? Puxe o certo até a frente da palavra, ou toque nele. Diga a palavra inteira em voz alta.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1nwh7ho",
+  "texto": "Mais seis. Repare na primeira letra da palavra: quando é IM e quando é IN? Tem um segredo aí.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1yul5wg",
+  "texto": "Agora escreva a palavra inteira, com o pedacinho na frente.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1yy86a0",
+  "texto": "Toque numa figura da esquerda e depois na figura que mostra o contrário dela.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_vvro5i",
+  "texto": "Você já usou o pedacinho quatro folhas seguidas. Agora diga a regra que você descobriu.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_d6d3mv",
+  "texto": "Leia o texto e toque nas palavras que são os contrários de dia, alto, quente e cedo. Depois confira.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_t4jwqw",
+  "texto": "Agora toque nas palavras que dizem a mesma coisa que bonita, casa, feliz e cachorro. Depois confira.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_u8xuxe",
+  "texto": "A frase foi reescrita com o contrário da palavra destacada. Qual das duas ficou certa?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1ubq63o",
+  "texto": "Pense no seu melhor amigo ou amiga. Escreva uma palavra que diga como ele é, e depois o contrário dela.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_r6ws97",
+  "texto": "Você já sabe tudo isto. Agora os dois nomes: leve cada par de palavras para a linha dele.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_188qoif",
+  "texto": "Mais cinco pares. Repare bem no desenho antes de ligar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1mxtd0x",
+  "texto": "A primeira cena tem um nome. Escreva nas casinhas o nome da segunda: é o contrário. Toque nas casinhas ou digite.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_l1ku6q",
+  "texto": "Agora sem a cena: só a figura. Escreva o contrário.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_s9s4x9",
+  "texto": "Leia as duas palavras de cada peça. Elas dizem a mesma coisa, ou dizem o contrário? Leve a peça para a gaveta certa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_6vvavu",
+  "texto": "Leia a palavra grande. Das três embaixo, qual diz a mesma coisa que ela? Cuidado: uma delas diz o contrário.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_cqib81",
+  "texto": "Mais seis palavras. Se ficar em dúvida, ponha as duas numa frase e veja se ela continua igual.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_kx40qf",
+  "texto": "Toque numa palavra da esquerda e depois na irmã dela, a que diz a mesma coisa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_6zj0hl",
+  "texto": "Acabar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_lqnlf6",
+  "texto": "Achar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_gng0w3",
+  "texto": "Acordar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_6f4j0z",
+  "texto": "Alegre.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_2t6xyr",
+  "texto": "Alta.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_2t5sc4",
+  "texto": "Amar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_5s9kws",
+  "texto": "Amargo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_m6cpze",
+  "texto": "Animado.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_hug9qu",
+  "texto": "A rua está larga.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_o9ozmq",
+  "texto": "A rua está suja.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1f97twp",
+  "texto": "A sopa está doce.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1f5ro60",
+  "texto": "A sopa está fria.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_2wiwjz",
+  "texto": "Belo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_yiz9lt",
+  "texto": "Bem.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_11k4jei",
+  "texto": "Bonito.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_m2fqma",
+  "texto": "Cachorro.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_2x888i",
+  "texto": "Cair.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_pfh8av",
+  "texto": "Calmo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1kq7zmg",
+  "texto": "Caminhar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1mr5932",
+  "texto": "Cansado.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_12ktksv",
+  "texto": "Capacete.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_pfqk4i",
+  "texto": "Capaz.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1y1naha",
+  "texto": "Capazão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_2x8g63",
+  "texto": "Casa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_pfib09",
+  "texto": "Cauda.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_2x57ba",
+  "texto": "Cedo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1fl3md1",
+  "texto": "Certeza.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1wufowb",
+  "texto": "Certinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_pcs2bo",
+  "texto": "Certo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_pllist",
+  "texto": "CHEIA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_pllj1f",
+  "texto": "Cheio.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_pivbso",
+  "texto": "Claro.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_102yinv",
+  "texto": "Começar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1pd17s7",
+  "texto": "Começo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_10drjhf",
+  "texto": "Comilão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1y5ea20",
+  "texto": "Completo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_v1u69z",
+  "texto": "Contente.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_kcgsm2",
+  "texto": "Contrário.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1fyr3g9",
+  "texto": "Correto.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_pneuvo",
+  "texto": "Curto.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1xmzawm",
+  "texto": "Delicioso.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_17pavyl",
+  "texto": "Dentro.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_s0telp",
+  "texto": "Desapareceu.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1q2lbo9",
+  "texto": "Despertar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1hng8nz",
+  "texto": "Distante.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_inqc73",
+  "texto": "Dobro.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_2puc1y",
+  "texto": "DOCE.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1bst3wk",
+  "texto": "Dormir.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_2q1ouh",
+  "texto": "Dura.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_d2r3dj",
+  "texto": "Encontrar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_d2qv26",
+  "texto": "Encontrou.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1xxon7a",
+  "texto": "Equipe.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_2tizg6",
+  "texto": "Escuro.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_mlvq24",
+  "texto": "Estreito.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_15u2p7r",
+  "texto": "Fechada.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_2tva9s",
+  "texto": "Feia.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_2tv9xq",
+  "texto": "Feio.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1bhgg0",
+  "texto": "Felizmente.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_17i041n",
+  "texto": "Felizão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_mcmumn",
+  "texto": "Feroz.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_yiwgdl",
+  "texto": "Fim.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_o5x6z2",
+  "texto": "Formoso.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_me7ach",
+  "texto": "Forte.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_2tzbnb",
+  "texto": "FRIA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_17knffv",
+  "texto": "Garoto.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1gmy6bb",
+  "texto": "Gostar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_wakwrb",
+  "texto": "Gostoso.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1kdwp7q",
+  "texto": "Guloso.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_a9znr2",
+  "texto": "Horrível.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_375mcv",
+  "texto": "IM.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_375mbw",
+  "texto": "IN.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1wyv1ol",
+  "texto": "Incapaz.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1x1muar",
+  "texto": "Incerto.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_qbo4qs",
+  "texto": "Início.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1645f4",
+  "texto": "Infeliz.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_47nqgr",
+  "texto": "Injusto.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_tarpu",
+  "texto": "Invisível.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1ttbqik",
+  "texto": "Justiça.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_14vtp5f",
+  "texto": "Justinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_nnegj6",
+  "texto": "Larga.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_nnegak",
+  "texto": "Largo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_12mka0c",
+  "texto": "Lembrar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_2vddap",
+  "texto": "Leve.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_4dlins",
+  "texto": "Ligeiro.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_nhp6xe",
+  "texto": "Limpa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_nho06d",
+  "texto": "Linda.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_nho017",
+  "texto": "Lindo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_niwvxg",
+  "texto": "Longe.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_niwvou",
+  "texto": "Longo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_o7m265",
+  "texto": "Magro.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_yiykx7",
+  "texto": "Mal.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1r4v6c6",
+  "texto": "Moradia.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_3d8iaf",
+  "texto": "Nervoso.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_2z80kd",
+  "texto": "NOVA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_12tq29h",
+  "texto": "O cofre está aberto.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1g8cvgx",
+  "texto": "O cofre está vazio.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_b4swki",
+  "texto": "O gato branco dormiu.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_f4hzls",
+  "texto": "O gato gordo dormiu.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_qucv1q",
+  "texto": "O menino baixo pulou o muro.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_hvbq3s",
+  "texto": "O menino grande pulou o muro.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1jf55pm",
+  "texto": "Paciente.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_dyfl58",
+  "texto": "Parecido.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_133wmtb",
+  "texto": "Perder.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_133wmvs",
+  "texto": "Perdeu.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_11ukt31",
+  "texto": "Perfeito.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_vbiczb",
+  "texto": "Perto.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1330ktj",
+  "texto": "Pesado.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1uuu93a",
+  "texto": "Possível.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_vfx2od",
+  "texto": "Pouco.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1l3uk0u",
+  "texto": "Próprio.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1l8zx61",
+  "texto": "Próximo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_v0nwjc",
+  "texto": "Pulou.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_33c02b",
+  "texto": "Puro.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1c0d9dk",
+  "texto": "Quieto.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_37w9xx",
+  "texto": "Rabo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_clfmfp",
+  "texto": "Recordar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_dcgm7e",
+  "texto": "Rápido.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_ywg5vu",
+  "texto": "Ruído.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_ij9o2d",
+  "texto": "Saboroso.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_38iwcl",
+  "texto": "Saiu.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_19mq29k",
+  "texto": "Salgado.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_38fotb",
+  "texto": "SECA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_38fp5d",
+  "texto": "Seco.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_w851gt",
+  "texto": "Sentado.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1c1thwi",
+  "texto": "Sonhar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_6qps3j",
+  "texto": "Sossegado.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_xezwxx",
+  "texto": "Sério.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_383j0m",
+  "texto": "Suja.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_ze6k58",
+  "texto": "Sumiu.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_9yj30x",
+  "texto": "Terminar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_upwxs",
+  "texto": "Útil.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_313ftq",
+  "texto": "Time.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_9dne6k",
+  "texto": "Tranquilo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_hpu9nu",
+  "texto": "Valente.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_wm3e26",
+  "texto": "Vazia.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_wm3ee8",
+  "texto": "Vazio.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_wpauwt",
+  "texto": "Velha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_wpasap",
+  "texto": "Veloz.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_s5wnps",
+  "texto": "Visitado.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1gj5mhy",
+  "texto": "Visivelmente.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_vf2ayd",
+  "texto": "Visível.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_ln9dxx",
+  "texto": "Sopa quente. E a outra? Sopa…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_12767jd",
+  "texto": "Roupa molhada. E a outra? Roupa…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1as2rey",
+  "texto": "Janela aberta. E a outra? Janela…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_17fcb4z",
+  "texto": "Cesto cheio. E a outra? Cesto…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_vq5syg",
+  "texto": "Primeiro pegue uma canetinha ali em cima. Depois toque na palavra.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_oygih5",
+  "texto": "Ana está feliz. Bia está lacuna.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1908zu1",
+  "texto": "Tem o caminho certo e o caminho lacuna.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_z2zafh",
+  "texto": "Um jogo justo e um jogo lacuna.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1gspxsk",
+  "texto": "Ele é capaz de pular. Eu sou lacuna de voar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_14twgxw",
+  "texto": "De dia o morro é visível. Na neblina ele fica lacuna.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_c6wte0",
+  "texto": "O contrário de FELIZ.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_96monv",
+  "texto": "O contrário de CERTO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_ujclix",
+  "texto": "O contrário de POSSÍVEL.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_93o6yl",
+  "texto": "O contrário de CAPAZ.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_10yaedx",
+  "texto": "O contrário de PACIENTE.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1n6a32b",
+  "texto": "Escreva uma palavra que diga como é o seu melhor amigo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_lpbpsj",
+  "texto": "Escreva agora o contrário da palavra que você escreveu.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_pq1yxa",
+  "texto": "Quase! Tente de novo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1x86551",
+  "texto": "O menino alto pulou o muro.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_ak5tfe",
+  "texto": "A sopa está quente.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_hoevhy",
+  "texto": "A rua está limpa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1sknhea",
+  "texto": "O cofre está cheio.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_ziyj59",
+  "texto": "O gato preto dormiu.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1672l18",
+  "texto": "Antes de P e de B, o pedacinho é lacuna.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1y0wz8u",
+  "texto": "Antes das outras letras, o pedacinho é lacuna.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_whfjkw",
+  "texto": "O pedacinho IN ou IM na frente da palavra faz ela virar o seu lacuna.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_qqiw6i",
+  "texto": "Primeiro toque numa palavra ali embaixo. Depois toque na gaveta dela.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_3hm6c",
+  "texto": "De",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_375bzd",
+  "texto": "dia",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_3t1g",
+  "texto": "a",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_375j0d",
+  "texto": "lua",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_yiwgh4",
+  "texto": "fica",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_2wlvxy",
+  "texto": "baixa",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_2tcb74",
+  "texto": "atrás",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_3hm6m",
+  "texto": "do",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_o98hom",
+  "texto": "morro.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_3t1m",
+  "texto": "O",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_yj058i",
+  "texto": "chão",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_vl4nrv",
+  "texto": "quente",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_lgkqkq",
+  "texto": "meio-dia",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_yj8rk9",
+  "texto": "vira",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_375ka7",
+  "texto": "Bia",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_2puq38",
+  "texto": "dorme",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_yizxwo",
+  "texto": "cedo",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_3t1c",
+  "texto": "e",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_lqh6sf",
+  "texto": "acorda",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_375yet",
+  "texto": "sol",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_st4fe5",
+  "texto": "tarde.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_yivmpf",
+  "texto": "alto",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_3hmis",
+  "texto": "no",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_yix8ic",
+  "texto": "céu.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_2z7y9o",
+  "texto": "noite",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_yj01g5",
+  "texto": "casa",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_134rmn2",
+  "texto": "pequena",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_375iap",
+  "texto": "Lia",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_2xeylp",
+  "texto": "chega",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_3hm68",
+  "texto": "da",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_jghg2a",
+  "texto": "escola",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_13onuq1",
+  "texto": "contente",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_yj4aol",
+  "texto": "todo",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_yirxgn",
+  "texto": "dia.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_1kmro6k",
+  "texto": "cachorro",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_yiru2x",
+  "texto": "dela",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_3sy4",
+  "texto": "é",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_3hmm5",
+  "texto": "um",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_375hm2",
+  "texto": "cão",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_2wbkj3",
+  "texto": "muito",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_f2ntxd",
+  "texto": "esperto.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_375cul",
+  "texto": "Ela",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_yiyn04",
+  "texto": "mora",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_yj2w1e",
+  "texto": "numa",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_j4s3y0",
+  "texto": "moradia",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "ec_swkns7",
+  "texto": "Narração ligada!",
+  "voz": "pt-BR-AntonioNeural"
+ }
+]
