@@ -24,41 +24,136 @@
   "O `conceitos` está VAZIO de propósito, e isso NÃO é 'passou': em Língua Portuguesa o documento da rede vem em faixas, sem cabeçalho por ano, e medir no documento inteiro aprovaria conteúdo de outro ano."
  ],
  "objetivos": [
-  {"objetivo": "Reconhecer o contrário olhando o par de figuras", "folhas": [1, 2, 3],
-   "pratica": "Análise linguística/semiótica (alfabetização)", "objeto": "Sinonímia e antonímia/morfologia/pontuação",
-   "habilidade": "HABILIDADE: \"Identificar sinônimos de palavras de texto lido, determinando a diferença de sentido entre eles, e formar antônimos de palavras encontradas em texto lido pelo acréscimo do prefixo de negação in-/im-.\""},
-  {"objetivo": "Escrever o antônimo que a cena mostra", "folhas": [4, 5],
-   "pratica": "Análise linguística/semiótica (alfabetização)", "objeto": "Sinonímia e antonímia/morfologia/pontuação",
-   "habilidade": "HABILIDADE: \"Identificar sinônimos de palavras de texto lido, determinando a diferença de sentido entre eles, e formar antônimos de palavras encontradas em texto lido pelo acréscimo do prefixo de negação in-/im-.\""},
-  {"objetivo": "Decidir se duas palavras dizem a mesma coisa ou o contrário", "folhas": [6, 12, 13],
-   "pratica": "Análise linguística/semiótica (alfabetização)", "objeto": "Sinonímia e antonímia/morfologia/pontuação",
-   "habilidade": "HABILIDADE: \"Identificar sinônimos de palavras de texto lido, determinando a diferença de sentido entre eles, e formar antônimos de palavras encontradas em texto lido pelo acréscimo do prefixo de negação in-/im-.\""},
-  {"objetivo": "Escolher a palavra que diz a mesma coisa", "folhas": [7, 8, 9],
-   "pratica": "Análise linguística/semiótica (alfabetização)", "objeto": "Sinonímia e antonímia/morfologia/pontuação",
-   "habilidade": "HABILIDADE: \"Identificar sinônimos de palavras de texto lido, determinando a diferença de sentido entre eles, e formar antônimos de palavras encontradas em texto lido pelo acréscimo do prefixo de negação in-/im-.\""},
-  {"objetivo": "Perceber que uma palavra tem mais de um sinônimo", "folhas": [10, 11],
-   "pratica": "Análise linguística/semiótica (alfabetização)", "objeto": "Sinonímia e antonímia/morfologia/pontuação",
-   "habilidade": "HABILIDADE: \"Identificar sinônimos de palavras de texto lido, determinando a diferença de sentido entre eles, e formar antônimos de palavras encontradas em texto lido pelo acréscimo do prefixo de negação in-/im-.\""},
-  {"objetivo": "Trocar a palavra pelo contrário dentro da frase", "folhas": [14, 15, 16],
-   "pratica": "Análise linguística/semiótica (alfabetização)", "objeto": "Sinonímia e antonímia/morfologia/pontuação",
-   "habilidade": "HABILIDADE: \"Identificar sinônimos de palavras de texto lido, determinando a diferença de sentido entre eles, e formar antônimos de palavras encontradas em texto lido pelo acréscimo do prefixo de negação in-/im-.\""},
-  {"objetivo": "Completar a fala com o sinônimo ou com o antônimo", "folhas": [17, 18, 19],
-   "pratica": "Análise linguística/semiótica (alfabetização)", "objeto": "Sinonímia e antonímia/morfologia/pontuação",
-   "habilidade": "HABILIDADE: \"Identificar sinônimos de palavras de texto lido, determinando a diferença de sentido entre eles, e formar antônimos de palavras encontradas em texto lido pelo acréscimo do prefixo de negação in-/im-.\""},
-  {"objetivo": "Achar sinônimos e antônimos nas grades de letras", "folhas": [20, 21, 22, 23],
-   "pratica": "Análise linguística/semiótica (alfabetização)", "objeto": "Sinonímia e antonímia/morfologia/pontuação",
-   "habilidade": "HABILIDADE: \"Identificar sinônimos de palavras de texto lido, determinando a diferença de sentido entre eles, e formar antônimos de palavras encontradas em texto lido pelo acréscimo do prefixo de negação in-/im-.\""},
-  {"objetivo": "Reunir os pares de palavras", "folhas": [24, 25],
-   "pratica": "Análise linguística/semiótica (alfabetização)", "objeto": "Sinonímia e antonímia/morfologia/pontuação",
-   "habilidade": "HABILIDADE: \"Identificar sinônimos de palavras de texto lido, determinando a diferença de sentido entre eles, e formar antônimos de palavras encontradas em texto lido pelo acréscimo do prefixo de negação in-/im-.\""},
-  {"objetivo": "Formar o antônimo com o prefixo in-/im-", "folhas": [26, 27, 28, 29, 30],
-   "pratica": "Análise linguística/semiótica (alfabetização)", "objeto": "Sinonímia e antonímia/morfologia/pontuação",
-   "habilidade": "HABILIDADE: \"Identificar sinônimos de palavras de texto lido, determinando a diferença de sentido entre eles, e formar antônimos de palavras encontradas em texto lido pelo acréscimo do prefixo de negação in-/im-.\""},
-  {"objetivo": "Achar sinônimos e antônimos dentro de um texto", "folhas": [31, 32, 33],
-   "pratica": "Análise linguística/semiótica (alfabetização)", "objeto": "Sinonímia e antonímia/morfologia/pontuação",
-   "habilidade": "HABILIDADE: \"Identificar sinônimos de palavras de texto lido, determinando a diferença de sentido entre eles, e formar antônimos de palavras encontradas em texto lido pelo acréscimo do prefixo de negação in-/im-.\""},
-  {"objetivo": "Usar sinônimos e antônimos para escrever", "folhas": [34, 35],
-   "pratica": "Análise linguística/semiótica (alfabetização)", "objeto": "Sinonímia e antonímia/morfologia/pontuação",
-   "habilidade": "HABILIDADE: \"Identificar sinônimos de palavras de texto lido, determinando a diferença de sentido entre eles, e formar antônimos de palavras encontradas em texto lido pelo acréscimo do prefixo de negação in-/im-.\""}
+  {
+   "objetivo": "Reconhecer o contrário olhando o par de figuras",
+   "folhas": [
+    1,
+    2,
+    3
+   ],
+   "pratica": "Análise linguística/semiótica (alfabetização)",
+   "objeto": "Sinonímia e antonímia/morfologia/pontuação",
+   "habilidade": "HABILIDADE: \"Identificar sinônimos de palavras de texto lido, determinando a diferença de sentido entre eles, e formar antônimos de palavras encontradas em texto lido pelo acréscimo do prefixo de negação in-/im-.\""
+  },
+  {
+   "objetivo": "Escrever o antônimo que a cena mostra",
+   "folhas": [
+    4,
+    5
+   ],
+   "pratica": "Análise linguística/semiótica (alfabetização)",
+   "objeto": "Sinonímia e antonímia/morfologia/pontuação",
+   "habilidade": "HABILIDADE: \"Identificar sinônimos de palavras de texto lido, determinando a diferença de sentido entre eles, e formar antônimos de palavras encontradas em texto lido pelo acréscimo do prefixo de negação in-/im-.\""
+  },
+  {
+   "objetivo": "Decidir se duas palavras dizem a mesma coisa ou o contrário",
+   "folhas": [
+    6,
+    12,
+    13
+   ],
+   "pratica": "Análise linguística/semiótica (alfabetização)",
+   "objeto": "Sinonímia e antonímia/morfologia/pontuação",
+   "habilidade": "HABILIDADE: \"Identificar sinônimos de palavras de texto lido, determinando a diferença de sentido entre eles, e formar antônimos de palavras encontradas em texto lido pelo acréscimo do prefixo de negação in-/im-.\""
+  },
+  {
+   "objetivo": "Escolher a palavra que diz a mesma coisa",
+   "folhas": [
+    7,
+    8,
+    9
+   ],
+   "pratica": "Análise linguística/semiótica (alfabetização)",
+   "objeto": "Sinonímia e antonímia/morfologia/pontuação",
+   "habilidade": "HABILIDADE: \"Identificar sinônimos de palavras de texto lido, determinando a diferença de sentido entre eles, e formar antônimos de palavras encontradas em texto lido pelo acréscimo do prefixo de negação in-/im-.\""
+  },
+  {
+   "objetivo": "Perceber que uma palavra tem mais de um sinônimo",
+   "folhas": [
+    10,
+    11
+   ],
+   "pratica": "Análise linguística/semiótica (alfabetização)",
+   "objeto": "Sinonímia e antonímia/morfologia/pontuação",
+   "habilidade": "HABILIDADE: \"Identificar sinônimos de palavras de texto lido, determinando a diferença de sentido entre eles, e formar antônimos de palavras encontradas em texto lido pelo acréscimo do prefixo de negação in-/im-.\""
+  },
+  {
+   "objetivo": "Trocar a palavra pelo contrário dentro da frase",
+   "folhas": [
+    14,
+    15,
+    16
+   ],
+   "pratica": "Análise linguística/semiótica (alfabetização)",
+   "objeto": "Sinonímia e antonímia/morfologia/pontuação",
+   "habilidade": "HABILIDADE: \"Identificar sinônimos de palavras de texto lido, determinando a diferença de sentido entre eles, e formar antônimos de palavras encontradas em texto lido pelo acréscimo do prefixo de negação in-/im-.\""
+  },
+  {
+   "objetivo": "Completar a fala com o sinônimo ou com o antônimo",
+   "folhas": [
+    17,
+    18,
+    19
+   ],
+   "pratica": "Análise linguística/semiótica (alfabetização)",
+   "objeto": "Sinonímia e antonímia/morfologia/pontuação",
+   "habilidade": "HABILIDADE: \"Identificar sinônimos de palavras de texto lido, determinando a diferença de sentido entre eles, e formar antônimos de palavras encontradas em texto lido pelo acréscimo do prefixo de negação in-/im-.\""
+  },
+  {
+   "objetivo": "Achar sinônimos e antônimos nas grades de letras",
+   "folhas": [
+    20,
+    21,
+    22,
+    23
+   ],
+   "pratica": "Análise linguística/semiótica (alfabetização)",
+   "objeto": "Sinonímia e antonímia/morfologia/pontuação",
+   "habilidade": "HABILIDADE: \"Identificar sinônimos de palavras de texto lido, determinando a diferença de sentido entre eles, e formar antônimos de palavras encontradas em texto lido pelo acréscimo do prefixo de negação in-/im-.\""
+  },
+  {
+   "objetivo": "Reunir os pares de palavras",
+   "folhas": [
+    24,
+    25
+   ],
+   "pratica": "Análise linguística/semiótica (alfabetização)",
+   "objeto": "Sinonímia e antonímia/morfologia/pontuação",
+   "habilidade": "HABILIDADE: \"Identificar sinônimos de palavras de texto lido, determinando a diferença de sentido entre eles, e formar antônimos de palavras encontradas em texto lido pelo acréscimo do prefixo de negação in-/im-.\""
+  },
+  {
+   "objetivo": "Formar o antônimo com o prefixo in-/im-",
+   "folhas": [
+    26,
+    27,
+    28,
+    29,
+    30
+   ],
+   "pratica": "Análise linguística/semiótica (alfabetização)",
+   "objeto": "Sinonímia e antonímia/morfologia/pontuação",
+   "habilidade": "HABILIDADE: \"Identificar sinônimos de palavras de texto lido, determinando a diferença de sentido entre eles, e formar antônimos de palavras encontradas em texto lido pelo acréscimo do prefixo de negação in-/im-.\""
+  },
+  {
+   "objetivo": "Achar sinônimos e antônimos dentro de um texto",
+   "folhas": [
+    31,
+    32,
+    33
+   ],
+   "pratica": "Análise linguística/semiótica (alfabetização)",
+   "objeto": "Sinonímia e antonímia/morfologia/pontuação",
+   "habilidade": "HABILIDADE: \"Identificar sinônimos de palavras de texto lido, determinando a diferença de sentido entre eles, e formar antônimos de palavras encontradas em texto lido pelo acréscimo do prefixo de negação in-/im-.\""
+  },
+  {
+   "objetivo": "Usar sinônimos e antônimos para escrever, e nomeá-los",
+   "folhas": [
+    34,
+    35
+   ],
+   "pratica": "Análise linguística/semiótica (alfabetização)",
+   "objeto": "Sinonímia e antonímia/morfologia/pontuação",
+   "habilidade": "HABILIDADE: \"Identificar sinônimos de palavras de texto lido, determinando a diferença de sentido entre eles, e formar antônimos de palavras encontradas em texto lido pelo acréscimo do prefixo de negação in-/im-.\""
+  }
  ]
 }
